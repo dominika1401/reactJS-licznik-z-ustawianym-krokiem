@@ -1,0 +1,19 @@
+.counter {
+    border: solid blue 0.5px;
+    margin: auto;
+    max-width: 750px;
+    margin-top: 50px;
+    padding: 30px;
+}
+
+.name {
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+}
+
+.number {
+    font-size: 30px;
+    color: red;
+    font-weight: bold;
+}

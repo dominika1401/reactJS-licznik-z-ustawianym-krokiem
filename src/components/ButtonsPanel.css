@@ -1,0 +1,12 @@
+button {
+    border: 2px blue solid;
+    background-color: blue;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    width: 100px;
+    height: 50px;
+    margin: 0 5px;
+    margin-top: 30px;
+    padding: 20px;
+}
